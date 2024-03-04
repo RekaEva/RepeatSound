@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">RepeatSound</string>
+
+    <string name="new_game">RepeatSound</string>
+    <string name="about_game">RepeatSound</string>
+
+    <string name="menu">Menu</string>
+    <string name="level">Level: </string>
+    <string name="record">Record: </string>
+    <string name="game_over">Game over</string>
+    <string name="your_record">Your record is </string>
+    <string name="restart">Restart</string>
+    <string name="free_game">Free game</string>
+    <string name="sound_do">Do</string>
+    <string name="sound_re">Re</string>
+    <string name="sound_mi">Mi</string>
+    <string name="sound_fa">Fa</string>
+
+    <string name="back">Back</string>
+    <string name="rules">Rules of the game:</string>
+    <string name="about">About the author:</string>
+    <string name="about_text">Made by Tatyana Rekaeva,
+        student of School 21</string>
+
+    <string name="rules_1">The interface consists of four buttons.
+        When a button is pressed, a short sound is played.
+        Each button has its sound, the sounds are of the same theme</string>
+    <string name="rules_2">At first, the application plays a sequence of sounds
+        with a small delay (e.g 500ms). Then, a user must repeat this sequence
+        by successively pressing the desired buttons</string>
+    <string name="rules_3"> The game is played by levels. With each level,
+        one more sound is added to the playback sequence
+        (previous elements of this sequence are the same).
+        The sequence starts with one sound.</string>
+
+
 </resources>
